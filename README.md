@@ -31,7 +31,7 @@ my-first-app/
 
 ---
 
-## 🛠️ Installatie
+## Installatie
 
 1. Clone dit project:
 
@@ -71,6 +71,6 @@ Voor het werkende contactformulier:
 
 ---
 
-##  Gemaakt met liefde door Frank Starren
+##  Gemaakt door Frank Starren
 
 Culinair Kompas — een passieproject voor iedereen die houdt van goed eten en mooie code.
